@@ -37,6 +37,17 @@ g++ DecToBin.cpp -o DecToBin
 
 ---
 
+## 🔥Approach using Recursion
+
+[For a recursive approach Click here](https://github.com/Khaleel-tech/DecimalToBinaryInRecursion.git) 
+
 ## ✨ Author
 
-Made with ❤️ by [Khaleel-tech](https://github.com/Khaleel-tech)
+Made with ❤️ by <br>
+ github: [Khaleel](https://github.com/Khaleel-tech)<br>
+ Linkedin: [Khaleel](https://www.linkedin.com/in/shaik-khasim-khaleel-basha-89b877278/)<br>
+ Gmail: Shaikkhaleel1425@gmail.com <br><br>
+
+---
+ 
+ <center><h1>Thank you</h1></center>
